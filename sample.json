@@ -133,7 +133,7 @@
       "key": "gitlab",
       "id": "gitlab",
       "title": "GitLab",
-      "quadrant": "tools",
+      "quadrant": "infrastructure",
       "links": [
         {
           "url": "https://about.gitlab.com/",
