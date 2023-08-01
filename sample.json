@@ -23,19 +23,19 @@
       ],
       "key": "javascript",
       "id": "javascript",
-      "title": "JavaScript",
+      "title": "JS",
       "quadrant": "languages",
       "links": [
         {
           "url": "https://www.javascript.com/",
-          "title": "Learn more"
+          "title": "Узнать больше"
         },
         {
           "url": "https://www.typescriptlang.org/",
           "title": "TypeScript"
         }
       ],
-      "description": "Excepteur **sint** occaecat *cupidatat* non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n```ts\nconst x = \"3\";\n```\n"
+      "description": "JavaScript (\"JS\" для краткости) — это полноценный динамический язык программирования, который применяется к HTML документу, и может обеспечить динамическую интерактивность на веб-сайтах."
     }
   ]
 }
