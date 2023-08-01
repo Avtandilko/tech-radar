@@ -9,7 +9,7 @@
     { "id": "infrastructure", "name": "Infrastructure" },
     { "id": "frameworks", "name": "Frameworks" },
     { "id": "languages", "name": "Languages" },
-    { "id": "process", "name": "Process" }
+    { "id": "libraries", "name": "Libraries" }
   ],
   "entries": [
     {
@@ -57,6 +57,90 @@
         }
       ],
       "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage the state of applications efficiently."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "trial",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Redux is being tried out in projects to manage application state."
+        }
+      ],
+      "key": "redux",
+      "id": "redux",
+      "title": "Redux",
+      "quadrant": "libraries",
+      "links": [
+        {
+          "url": "https://redux.js.org/",
+          "title": "Узнать больше"
+        }
+      ],
+      "description": "Redux is a predictable state container for JavaScript applications. It is commonly used with React to manage the application state in a more organized and centralized way. Redux follows the Flux architecture and promotes a unidirectional data flow, making it easier to maintain and debug complex applications."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Kubernetes is being tried out in projects to manage containerized applications."
+        }
+      ],
+      "key": "kubernetes",
+      "id": "kubernetes",
+      "title": "Kubernetes",
+      "quadrant": "infrastructure",
+      "links": [
+        {
+          "url": "https://kubernetes.io/",
+          "title": "Узнать больше"
+        }
+      ],
+      "description": "Kubernetes is an open-source container orchestration platform used to automate the deployment, scaling, and management of containerized applications. It provides a set of powerful features to manage container clusters, ensuring high availability, fault tolerance, and efficient resource utilization. Kubernetes simplifies the management of distributed systems and enables organizations to deploy and run applications at scale."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2022-01-15T00:00:00.000Z",
+          "description": "OpenSearch is being tried out in projects as an open-source search and analytics engine."
+        }
+      ],
+      "key": "opensearch",
+      "id": "opensearch",
+      "title": "OpenSearch",
+      "quadrant": "infrastructure",
+      "links": [
+        {
+          "url": "https://opensearch.org/",
+          "title": "Узнать больше"
+        }
+      ],
+      "description": "OpenSearch is a community-driven, open-source search and analytics engine. It is a fork of Elasticsearch and Kibana, offering a powerful and scalable solution for indexing and searching various types of data. OpenSearch provides developers and organizations with the flexibility to build custom search and analytics applications to gain valuable insights from their data."
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "GitLab is being tried out in projects as an end-to-end DevOps platform."
+        }
+      ],
+      "key": "gitlab",
+      "id": "gitlab",
+      "title": "GitLab",
+      "quadrant": "tools",
+      "links": [
+        {
+          "url": "https://about.gitlab.com/",
+          "title": "Узнать больше"
+        }
+      ],
+      "description": "GitLab is a complete DevOps platform delivered as a single application. It provides a range of tools and features, including source code management (Git repositories), continuous integration/continuous deployment (CI/CD), issue tracking, code review, monitoring, and more. With GitLab, development teams can collaborate efficiently and streamline their development, testing, and deployment processes in a unified environment."
     }
   ]
 }
