@@ -1,4 +1,5 @@
-
+{
+  "rings": [
     { "id": "adopt", "name": "ADOPT", "color": "#5BA300" },
     { "id": "trial", "name": "TRIAL", "color": "#009EB0" },
     { "id": "assess", "name": "ASSESS", "color": "#C7BA00" },
@@ -20,7 +21,7 @@
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
         }
       ],
-      "key": "javascript"
+      "key": "javascript",
       "id": "javascript",
       "title": "JavaScript",
       "quadrant": "languages",
